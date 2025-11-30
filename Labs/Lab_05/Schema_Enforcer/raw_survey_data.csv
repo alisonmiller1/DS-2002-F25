@@ -1,0 +1,6 @@
+student_id,major,GPA,is_cs_major,credits_taken
+10,CS,3.0,Yes,11.5
+11,Engineering,2,No,13.5
+12,Economics,3.5,No,14.5
+13,CS,3,Yes,12.5
+14,Politics,2.8,No,10.5

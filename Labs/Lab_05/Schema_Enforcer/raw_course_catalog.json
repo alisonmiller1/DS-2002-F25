@@ -1,0 +1,90 @@
+[
+    {
+        "course_id": "DS2002",
+        "section": "001",
+        "title": "Data Science Systems",
+        "level": 200,
+        "instructors": [
+            {
+                "name": "Austin Rivera",
+                "role": "Primary"
+            },
+            {
+                "name": "Heywood Williams-Tracy",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "DS3001",
+        "section": "002",
+        "title": "Foundations of Machine Learning",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Michael Freenor",
+                "role": "Primary"
+            },
+            {
+                "name": "Nehemiah Kim",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "PHIL2500",
+        "section": "001",
+        "title": "Love and Friendship",
+        "level": 200,
+        "instructors": [
+            {
+                "name": "Talbot Brewer",
+                "role": "Primary"
+            },
+            {
+                "name": "Annette Song",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "PHIL3150",
+        "section": "001",
+        "title": "17th Century Philosophy",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Jorge Secada",
+                "role": "Primary"
+            }
+        ]
+    },
+    {
+        "course_id": "4365",
+        "section": "001",
+        "title": "Global Financial Markets",
+        "level": 400,
+        "instructors": [
+            {
+                "name": "Ana Fostel",
+                "role": "Primary"
+            },
+            {
+                "name": "Zitian Wang",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "4340",
+        "section": "001",
+        "title": "Theory of Financial Markets",
+        "level": 400,
+        "instructors": [
+            {
+                "name": "Edwin Burton",
+                "role": "Primary"
+            }
+        ]
+    }
+]
